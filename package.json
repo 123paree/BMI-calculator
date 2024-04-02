@@ -1,8 +1,8 @@
 {
-  "name": "bmi-calculator-by-paree123",
-  "version": "2.0.0",
-  "description": "",
-  "main": "bmi.js",
+  "name": "bmi-calculator-by-paree1234",
+  "version": "1.0.1",
+  "description": "In this repository a BMI calculator is made.",
+  "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bmi-calculator-by-paree123": "^2.0.0",
+    "bmi-calculator-by-paree1234": "^1.0.1",
     "inquirer": "^9.2.16"
   },
   "devDependencies": {
